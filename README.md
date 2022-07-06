@@ -1,3 +1,3 @@
 # Hello-world
-#Harsha Narayana P.
-###please god shoe some mercy.
+# Harsha Narayana P.
+### please god shoe some mercy.
